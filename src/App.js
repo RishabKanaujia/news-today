@@ -12,48 +12,7 @@ import {
 function App() {
 
   const apikey = process.env.REACT_APP_NEWS_API
-  // const router = createBrowserRouter([
-  //   {
-  //     path: "/",
-  //     element: <Navbar/>
-  //   },
-  //   {
-  //     path: "/",
-  //     element: <News pageSize={6} category="general"/>
-  //   },
-  //   {
-  //     path: "/",
-  //     element: <Footer/>
-  //   },
-  //   {
-  //     path: "/general",
-  //     element: <News pageSize={6} category="general"/>
-  //   },
-  //   {
-  //     path: "/entertainment",
-  //     element: <News pageSize={6} category="entertainment"/>
-  //   },
-  //   {
-  //     path: "/health",
-  //     element: <News pageSize={6} category="health"/>
-  //   },
-  //   {
-  //     path: "/science",
-  //     element: <News pageSize={6} category="science"/>
-  //   },
-  //   {
-  //     path: "/technology",
-  //     element: <News pageSize={6} category="technology"/>
-  //   },
-  //   {
-  //     path: "/sports",
-  //     element: <News pageSize={6} category="sports"/>
-  //   },
-  //   {
-  //     path: "/business",
-  //     element: <News pageSize={6} category="business"/>
-  //   },
-  // ]);
+
   return (
    
   
